@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class lightSwitch : MonoBehaviour
+public class LightSwitch : MonoBehaviour
 {
     public GameObject inttext, light;
     public bool toggle = true, interactable;

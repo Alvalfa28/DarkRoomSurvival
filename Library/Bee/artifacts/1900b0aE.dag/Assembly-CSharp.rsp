@@ -399,7 +399,12 @@
 -analyzer:"E:/Unity/Unity Hub/Hub/Editor/6000.0.39f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/Unity/Unity Hub/Hub/Editor/6000.0.39f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"E:/Unity/Unity Hub/Hub/Editor/6000.0.39f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/beginningCutscene.cs"
+"Assets/Scripts/door.cs"
+"Assets/Scripts/Flashlight.cs"
 "Assets/Scripts/LightSwitch.cs"
+"Assets/Scripts/PickupFlashlight.cs"
+"Assets/Scripts/scaryEventTrigger.cs"
 "Assets/Scripts/SC_FPSController.cs"
 -langversion:9.0
 /deterministic
