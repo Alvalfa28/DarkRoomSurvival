@@ -65,6 +65,8 @@
     <Compile Include="Assets\Scripts\scaryEventTrigger.cs" />
     <Compile Include="Assets\Scripts\Flashlight.cs" />
     <Compile Include="Assets\Scripts\door.cs" />
+    <Compile Include="Assets\Scripts\menu.cs" />
+    <Compile Include="Assets\Scripts\interact.cs" />
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
     <Compile Include="Assets\Scripts\PickupFlashlight.cs" />
     <Compile Include="Assets\Scripts\LightSwitch.cs" />
