@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "E:\\Unity\\Project\\Dark Room Survival\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|e:\\unity\\project\\dark room survival\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|e:\\unity\\project\\dark room survival\\assets\\scripts\\picukupkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\picukupkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\scaryeventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scaryeventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\beginningcutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginningcutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|e:\\unity\\project\\dark room survival\\assets\\scripts\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\beginningcutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginningcutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66C9B34B-F1C6-8AA9-2EE6-76D53DE63999}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Room Survival\\assets\\scripts\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,6 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "picukupKey.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\picukupKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\picukupKey.cs",
+              "ToolTip": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\picukupKey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\picukupKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:19:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "interact.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\interact.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\interact.cs",
+              "ToolTip": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\interact.cs",
+              "RelativeToolTip": "Assets\\Scripts\\interact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:46:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "menu.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\menu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\menu.cs",
@@ -59,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "scaryEventTrigger.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\scaryEventTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\scaryEventTrigger.cs",
@@ -67,11 +105,38 @@
               "RelativeToolTip": "Assets\\Scripts\\scaryEventTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:04:54.61Z"
+              "WhenOpened": "2025-05-12T17:04:54.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "door.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\door.cs",
+              "ToolTip": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:49:04.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pause.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\pause.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\pause.cs",
+              "ToolTip": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\pause.cs",
+              "RelativeToolTip": "Assets\\Scripts\\pause.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:39:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "beginningCutscene.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\beginningCutscene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\beginningCutscene.cs",
@@ -83,19 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "door.cs",
-              "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\door.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\door.cs",
-              "ToolTip": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\door.cs",
-              "RelativeToolTip": "Assets\\Scripts\\door.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:49:04.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Flashlight.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\Flashlight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Flashlight.cs",
@@ -107,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SC_FPSController.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\SC_FPSController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SC_FPSController.cs",
@@ -119,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "PickupFlashlight.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\PickupFlashlight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PickupFlashlight.cs",
@@ -131,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "LightSwitch.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Room Survival\\Assets\\Scripts\\LightSwitch.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LightSwitch.cs",
