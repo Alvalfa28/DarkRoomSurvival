@@ -6,9 +6,10 @@ using UnityEngine.UI;
 
 public class menu : MonoBehaviour
 {
-    public GameObject loadingscreen;
+    public GameObject loadingscreen, menuObj, settingsObj;
     public string sceneName, sceneName2;
     public Button continueButton;
+
     void Start()
     {
         Cursor.visible = true;
@@ -40,6 +41,11 @@ public class menu : MonoBehaviour
             SceneManager.LoadScene(sceneName);
         }
     }
+    public void SettingsMenu()
+    {
+        menuObj.SetActive(false);
+        settingsObj.SetActive(true);
+    }
     public void quitGame()
     {
         Debug.Log("This will quit the game, only works in actual build, not in Unity editor.");
@@ -48,5 +54,10 @@ public class menu : MonoBehaviour
     public void githubChannel()
     {
         Application.OpenURL("https://github.com/Alvalfa28");
+    }
+    public void backToMenu()
+    {
+        settingsObj.SetActive(false);
+        menuObj.SetActive(true);
     }
 }

@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\pause.cs" />
+    <Compile Include="Assets\Scripts\settings.cs" />
     <Compile Include="Assets\Scripts\deathScreen.cs" />
     <Compile Include="Assets\Scripts\beginningCutscene.cs" />
     <Compile Include="Assets\Scripts\creepsJumpscare.cs" />
