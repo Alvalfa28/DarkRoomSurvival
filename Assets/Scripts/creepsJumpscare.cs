@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class creepsJumpscare : MonoBehaviour
+public class obungaJumpscare : MonoBehaviour
 {
     public Animator creepsAnim;
     public GameObject player;
+    public AudioSource obamaSource;
     public float jumpscareTime;
     public string sceneName;
 
@@ -15,6 +16,7 @@ public class creepsJumpscare : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             player.SetActive(false);
+            obamaSource.enabled = false;
             creepsAnim.SetTrigger("jumpscare");
             StartCoroutine(jumpscare());
         }

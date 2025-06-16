@@ -413,6 +413,7 @@
 "Assets/Scripts/deathScreen.cs"
 "Assets/Scripts/door.cs"
 "Assets/Scripts/Flashlight.cs"
+"Assets/Scripts/footstepSounds.cs"
 "Assets/Scripts/interact.cs"
 "Assets/Scripts/LightSwitch.cs"
 "Assets/Scripts/menu.cs"
