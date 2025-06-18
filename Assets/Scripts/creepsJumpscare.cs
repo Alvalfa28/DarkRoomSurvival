@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class obungaJumpscare : MonoBehaviour
+public class creepsJumpscare : MonoBehaviour
 {
     public Animator creepsAnim;
     public GameObject player;

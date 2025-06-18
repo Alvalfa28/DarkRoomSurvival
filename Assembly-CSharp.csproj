@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\pause.cs" />
+    <Compile Include="Assets\Scripts\laserSwitch.cs" />
     <Compile Include="Assets\Scripts\settings.cs" />
     <Compile Include="Assets\Scripts\deathScreen.cs" />
     <Compile Include="Assets\Scripts\beginningCutscene.cs" />
@@ -70,6 +71,7 @@
     <Compile Include="Assets\Scripts\Flashlight.cs" />
     <Compile Include="Assets\Scripts\summonCreeps.cs" />
     <Compile Include="Assets\Scripts\door.cs" />
+    <Compile Include="Assets\Scripts\destinationTrigger.cs" />
     <Compile Include="Assets\Scripts\nextLevel.cs" />
     <Compile Include="Assets\Scripts\camBob.cs" />
     <Compile Include="Assets\Scripts\creeps.cs" />
@@ -78,8 +80,11 @@
     <Compile Include="Assets\Scripts\menu.cs" />
     <Compile Include="Assets\Scripts\interact.cs" />
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
+    <Compile Include="Assets\Scripts\snowmanJumpscare.cs" />
     <Compile Include="Assets\Scripts\PickupFlashlight.cs" />
+    <Compile Include="Assets\Scripts\enemyMonsterAI.cs" />
     <Compile Include="Assets\Scripts\LightSwitch.cs" />
+    <Compile Include="Assets\Scripts\randomizeStuff.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
